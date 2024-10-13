@@ -1,9 +1,0 @@
-public enum specialty 
-{
-    INFORMATICS,
-    COMPUTER_SCIENCE,
-    APPLIED_MATHS,
-    INFOMATIONS_SYSTEMS,
-    MATH,
-    UNDEFINED
-}
