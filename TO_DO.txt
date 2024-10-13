@@ -1,13 +1,6 @@
-All::stringify;
 
-Lector::gradeIndivStudent;
-Lector::generateProtocol;
 
-Subject::izbiraemOrNot;
-Subject::Conspect;
 
-Susi::sendMessage;
-Susi::ot_predniq_put;
 
 Program::Test_Scene;
 
