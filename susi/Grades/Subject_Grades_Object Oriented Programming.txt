@@ -1,0 +1,12 @@
+Name: Stoyan Stoyanov Ivanov
+Faculty Number: 9MI0400132
+Grade: 4.0
+
+Name: Jessica Sami Bidjerano
+Faculty Number: 0MI0400167
+Grade: 4.0
+
+Name: Kristiyan Rumenov Stoimenov
+Faculty Number: 3MI0400121
+Grade: 6.0
+

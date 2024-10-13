@@ -1,0 +1,4 @@
+1. Pointers;
+2. Ctors & Dtors;
+3. SOLID;
+4. Templates;

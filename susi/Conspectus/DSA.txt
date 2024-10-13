@@ -1,0 +1,5 @@
+1. Arrays;
+2. Lists;
+3. Trees;
+4. HashMaps;
+5. Sorting;
