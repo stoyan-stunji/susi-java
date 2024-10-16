@@ -1,6 +1,25 @@
 Въпроси:
 1. Как да стане разделението по папки?
 
+Program
+-> Main
+Susi
+-> Student
+    -> Student
+    -> Area
+-> Lector
+    -> Depratment
+    -> Lector
+-> Subject
+    -> Subject
+    -> ElectiveType
+    -> SubjectType
+-> Message
+    -> Message
+-> Structures
+    -> Pair
+    -> Tuple
+
 Поправки:
 1. Оправи системата за съобщения;
 2. Оправи непромяната във файла с оценките при смяната на оценка;
