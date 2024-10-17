@@ -12,6 +12,8 @@ public class Susi<T, N>
     private List<Student> students;  
 
     private List<Message<T, N>> messages; 
+
+    // private List<Subject> allSubjects;
     
     public Susi()
     {
