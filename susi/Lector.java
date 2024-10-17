@@ -16,6 +16,8 @@ public class Lector
     private String email;
     private String password;
 
+    // private List<Message> inbox;
+
     private boolean isLogInfoCorrect(String e, String p)
     {
         return this.email == e && this.password == p;
