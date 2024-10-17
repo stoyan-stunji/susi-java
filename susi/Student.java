@@ -17,6 +17,8 @@ public class Student
     private List<Pair<Subject, Double>> exams;
     private boolean hasHealthInsurance;
 
+    // private List<Message> inbox;
+
     private static final int MIN_COURSE = 1;
     private static final int MAX_COURSE = 4;
 
